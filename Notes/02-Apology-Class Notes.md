@@ -1,5 +1,6 @@
 
 Socrates talked to three types of people
+
 1. Politicians
 	1. Not open to questions
 	2. Rarely pause to think
@@ -71,7 +72,7 @@ Information v/s Knowledge v/s Wisdom
 - Hence Acknowledge Lack
 - Understand that not knowing is problematic
 
-- Unexamined life is not worth living (pg 19 onwards)
+- Unexamined life is not worth living
 	- You should care enough to examine to *some* extent
 	- It's about willingness to learn
 	- "being in between": we're in a continuous journey of examining yourself
