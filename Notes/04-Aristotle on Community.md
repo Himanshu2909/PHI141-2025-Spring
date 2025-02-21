@@ -42,14 +42,97 @@
 	- ie, in brief it is not a result of random events, but every event happened for a strict defined purpose.
 ### Teleology
 
+***telos:* 'end', 'aim', or 'goal'**
+***logos:* 'explanation' or 'reason'**
+
+- **Simple Definition:** Giving the reason or an explanation for something as a function of its end, its purpose, or its goal, as opposed to as a function of its cause.
+- A purpose that is imposed by human use, such as the purpose of a fork to hold food, is called extrinsic 
+- Natural teleology, though controversial today contends that natural entities also have _intrinsic_ purposes, regardless of human use or opinion.
+
 Four ways of explaining natural things:
-1. Material Cause
-2. Efficient Cause
-3. Formal Cause
-4. Final Cause
+1. Material Cause: Composition
+2. Efficient Cause: Cause of occurrence in a given state
+3. Formal Cause: Essence of what the idea/object is
+4. Final Cause: goal/purpose/end (telos). It answers the most basic question about its existence
+
+Teleology is important to explain consistent, stable and non random character of natural processes. eg: reproduction in animals.
+
+Opposed to Rousseau's theory, which stems from the fact that all events, including formation of society is a matter of the *"chance coming together of unconnected causes and events"*
+
+### Rebuttals to Teleology
+Rebuttals:
+- example of rain: no follow up rebuttal from aristotle
+- example of evolution of front teeth (game of chance, random mutation -> survival -> evolution, similar to Darwin and Rousseau)
+	- Aristotle's rebuttal: something orderly (ie, something which happens always or for the most part of it) can not occur by chance
+	- Development of teeth in a particular manner contributes to well being of the animal
+- This generalisation is a projection of what we see into a non-human screen where it does not belong
+- Can not rely on ordinary, naked-eye observations. eg: Sun rises in the east and sets in the west
 
 ### Man, by nature is political
+- since the ends (families, households, villages and cities) are naturally political, the human being which is a core constituent of this system is also inherently political 
+- non-political fitting is only for *"a beast"* or *"a god"*
+- ***city is thus prior by nature to the household and to the individual****
+	- analogy of hand
+	- implies they should identify their own interests with those of the political community
+	- job of citizen is preservation of political community
 
+#### Rebuttals Against
+- people are 
+	- indifferent to their own government
+	- ignorant about what their country has been fighting for
+	- preoccupied by personal incentives, which they weigh above being aware about what is happening in their city
+- Rousseau:
+	- city is artificial, which augments out power but also robs us of the strength and takes us further away from who we are by nature
+- example of contemporary city:
+	- Liberation from the demand to be political allows one to pursue idiosyncratic projects 
+	- increased creativity and diversity
 ### *logos*: reason and rationality
+***logos:* 'explanation' or 'reason'**
+- differentiates between humans and animals
+	- serves to reveal the advantageous and the harmful, thus the just and unjust
+	- humans reform their actions and actions based on outcome of discussions
+- purpose of human communities comes from discussion, deliberation and reasoning
+- Modern Idea of Collective Intelligence. 
+	- Greater and better:
+		- unique perspectives
+		- information
+	- Twelve Angry Men
+		- 11 v/s 1 jury
+		- collective intelligence emerged from deliberation
+		- a juror from violent slum added knowledge and perspective on the type of weapon
+		- an experienced juror added perspective about the plausibility of occurrence of a given event
+- Ideal size of community:
+	- if large: 
+		- unable to generate sense of communal identity
+		- badly governed
+		- citizens not aware of one another's qualities
+		- example of tall human not being able to circulate blood
+
+#### Gossip
+
+Arguments for:
+- good because stems from the motive of figuring out how an ideal leader might look like
+- opens grounds to deliberation and discussion: *logos*
+- can function as filter through which our opinions of others are distilled into concrete value judgement that we agree upon
+
+Arguments against:
+- *amour propre*
+- fuelled by desire to compare ourselves
+- alteration of presentation of one's thought in a social setting in order to be perceived as more desirable being
+- language: tool for deception and alienation
 
 ### Inequality is natural
+- "Natural Slave"
+	- exists as a micro structure in the society and justified by the concept of "meritocracy" in this capitalist society
+	- process in which interests of both master and slave are served (quid pro quo)
+		- slave objectively benefited by master, and feels affection towards him
+		- master able to extract work from slave
+	- critique of institutionalised slavery
+	- not realistic due to immense conditions
+- humans, simply by the virtue of being humans are not morally or politically equal
+
+- some people need forceful constraint to organise their lives well -> they should be given orders
+
+- doctors are radical egalitarians who do not differentiate the value of lives of different people
+
+- The idea of people inherently being unequal is an elitist mentality because now, it is on a person to decide who is fit and who is not to be provided freedom and equality. What is the threshold? How does one enforce the right threshold? How does one without any restraint and protests relax the enforcement threshold when he realises that the status quo of the threshold is morally incorrect?
