@@ -4,6 +4,8 @@ Kant:
 1. Rejects happiness as the ultimate standard of moral judgement
 2. Denies we can determine whether an action is right or wrong by calculating it's consequences
 
+$$|\Phi\rangle\in\mathcal E_\lambda$, the eigenspace of $A$ for eigenvalue $\lambda$. By definition$$
+
 ### Good Will
 - Only good will has unconditional worth
 - A good will not not good because of the objectives it accomplishes or how it impacts anyone else; it is good simply because it is good in and of itself.
